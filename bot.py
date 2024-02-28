@@ -204,6 +204,6 @@ Github  : https://github.com/simonfarah/tiktok-bot
         )
 
 
-if __name__ == "__main__":
+if __name__ ==luis.rda:
     bot = Bot()
     bot.start()
